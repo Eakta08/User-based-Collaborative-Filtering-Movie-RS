@@ -5,7 +5,7 @@ This is a project based on Collaborative Filtering Recommendation System (User-B
 
 ### Instructions how to go about it:
 1. **Run this code for installation of necessary libraries :** ```!pip install streamlit pickle```(if required) <br><br>
-2. **Run the jupyter file 'User-Based Collaborative Filtering.ipynb' to get pickle files i.e `cosine_sim.pkl` , `merge_df.pkl` and `user_movie_matrix.pkl`**<br><br>
+2. **Run the contents of jupyter file 'User-Based Collaborative Filtering.ipynb' to get pickle files i.e `cosine_sim.pkl` , `merge_df.pkl` and `user_movie_matrix.pkl`**<br><br>
 3. **Open Anaconda Prompt, enter the current directory of the folder using 'cd' command :** ```cd folder_path```.
    <br>**For Example:** ```cd C:\Users\Desktop\Github\User-based-Collaborative-Filtering-Movie-RS```<br><br> 
 4. **Run this code to launch your streamlit app :** ```streamlit run app.py``` (make sure you have entered the current directory where app.py is present using 'cd' command)
